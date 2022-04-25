@@ -1,0 +1,80 @@
+section.about-us-page .head {
+    background-image: url(../img/contact-us1.jpg);
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    padding: 2rem;
+}
+.contact-us-overlay {
+    background-color: #000000ad;
+    opacity: 1;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.head h1 {
+    position: relative;
+}
+/* .back-video{
+    background-image: url(../img/contact-us2.mp4);
+} */
+.back-video video {
+    max-width: 100%;
+}
+.contact-us-overlay1 {
+    background-color: #FFFFFF;
+    opacity: 0.7;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.back-video{
+    position: relative;
+}
+.contact-info-sec {
+    position: relative;
+    top: -22rem;
+    left: 26px;
+}
+.contact-info-sec p {
+    padding: 0 5rem 0 0;
+}
+.contact-info-sec h3 {
+    color: #f39506;
+}
+.contactus-content {
+    display: flex;
+    gap: 10px;
+    color: #1c68ad;
+    font-size: 20px;
+}
+.contactus-content h6 {
+    display: inline-block;
+    font-size: 20px;
+}
+.contactus-content:hover{
+    color: #f39506;
+}
+.contactus-content a:hover{
+    color: #f39506;
+}
+section.about-us-page label {
+    color: #005046;
+    font-size: 24px;
+}
+input.contact-submit {
+    background: #f39506;
+    color: #fff;
+    border: 1px solid #02010100;
+    padding: 1rem 2rem;
+}
+.about-us-section {
+    padding: 3rem 0;
+}

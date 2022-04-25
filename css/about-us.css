@@ -1,0 +1,118 @@
+section.section-head .head {
+    background: #A5DCF4;
+}
+.wtopt-section h3 {
+    color: #1C68AD;
+    font-size: 48px;
+}
+.wtopt-section .wtopt-content {
+    margin: auto 0;
+}
+.wtopt-section {
+    padding: 10px 0;
+}
+h3.pptp-head {
+    color: #1C68AD;
+    font-size: 48px;
+}
+.pptp-center {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+section.pptp-section {
+    background-color: #A5DCF4;
+}
+.couslingboxes-sec i {
+    font-size: 70px;
+    color: #F39506;
+    transition: 0.2s;
+}
+.couslingboxes-sec i:hover {
+    transform: scale(1.1);
+}
+h3.pptp-head1 {
+    font-size: 40px;
+    color: #1C68AD;
+}
+p.counslingpara {
+    color: #666666;
+    font-weight: 400;
+}
+.pptpsec {
+    background: #fff;
+    padding: 2rem 1rem;
+    align-items: center;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 13%);
+}
+.btncenter {
+    text-align: center;
+}
+section.letmin .wtopt-section h3 {
+    color: #1C68AD;
+    font-size: 36px;
+}
+section.services-section i {
+    font-size: 70px;
+    color: #F39506;
+    transition: 0.2s;
+}
+section.services-section .pptpsec {
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 13%);
+}
+h5.pptp-head1 {
+    color: #1C68AD;
+}
+section.services-section i:hover {
+    transform: scale(1.1);
+}
+h3.pptp1 {
+    color: #1C68AD;
+    font-size: 36px;
+}
+.img-sec {
+    margin: auto 0;
+}
+.wrtb-center {
+    text-align: center;
+}
+.counts {
+    text-align: center;
+}
+.counts p.benefit1 {
+    font-size: 16px;
+}
+section.wrtb .col-md-3:not(:last-child) {
+    border-right: 1px solid #fff;
+}
+section.wrtb{
+    padding: .5rem 0;
+}
+ul.ttmef {
+    padding: 0rem;
+}
+ul.ttmef li {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+ul.ttmef li i {
+    background: #f39506;
+    height: fit-content;
+    padding: 0.6rem;
+    color: #fff;
+    transition: .2s;
+    border-radius: 50%;
+    font-size: 30px;
+}
+ul.ttmef {
+    padding: 0rem;
+}
+ul.ttmef li i:hover {
+    color: #818a91;
+}
+h3.pptp2 {
+    color: #1C68AD;
+    font-size: 26px;
+}

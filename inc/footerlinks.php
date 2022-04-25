@@ -3,7 +3,7 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/popper.min.js" type="text/javascript"></script>
 <!-- Bootstrap CDN -->
-
+<script src="https://kit.fontawesome.com/d7f831f9f8.js" crossorigin="anonymous"></script>
 <!-- Magnific Popup core JS file -->
 <script src="magnific-popup/jquery.magnific-popup.js"></script>
 <!-- Magnific Popup core JS file -->
@@ -108,4 +108,39 @@ $('.slider-nav').slick({
     ]
 });
 // Product-detail Slider
+// about page carousel start
+$('#aboutpage1').slick({
+    dots: true,
+    arrows: true,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false,
+                arrows: true,
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+    ]
+});
+// about page carousel end
 </script>
