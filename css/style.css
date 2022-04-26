@@ -41,6 +41,7 @@ h4,
 h5,
 h6 {
   font-family: "volkr", sans-serif;
+  color: #1C68AD;
 }
 h1 {
   font-size: 60px;
@@ -425,7 +426,10 @@ section.workplace-sec {
 }
 /* section improve work place end here */
 /* section benefits of first aid start here */
-p.benefit1 {
+p.assesment-para {
+  color: #666666;
+}
+.benefit1 {
   color: #F39506;
   font-family: 'open-sens';
   font-size: 24px;
@@ -1669,7 +1673,7 @@ ul.info input.tnp-submit {
   margin-top: 10px;
 }
 footer {
-  /* padding: 50px 190px 0px; */
+  padding: 4rem 0;
   background-color: #1C68AD;
 }
 footer .footer_content {

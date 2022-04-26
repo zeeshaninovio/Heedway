@@ -1,0 +1,15 @@
+.ourtp-section {
+    text-align: center;
+}
+.lfindsyp-section li {
+    color: #1C68AD;
+    list-style: none;
+    display: inline-block;
+}
+/* .lfindsyp-section li::marker {
+    color: #fff;
+    background-color: #f39506;
+    padding: 5px;
+    width: 10px;
+    height: 10px;
+} */
