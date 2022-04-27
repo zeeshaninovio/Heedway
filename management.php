@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="ptake-video">
-                        <iframe class="img-fluid"
+                        <iframe class=""
                             src='https://players.brightcove.net/3742124946001/tB07HUGU7_default/index.html?videoId=6083564190001'
                             allowfullscreen frameborder=0 width="100%" height="400px"></iframe>
                     </div>

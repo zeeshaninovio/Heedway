@@ -116,3 +116,29 @@ h3.pptp2 {
     color: #1C68AD;
     font-size: 26px;
 }
+div#aboutpage1 img {
+    animation: zoominoutsinglefeatured 10s infinite;
+        animation-name: mymove;
+/* transform: scale(1.0); */
+}
+@keyframes mymove{
+    0% {
+ transform: scale(1) rotate(0deg);
+}
+    
+100% {
+    transform: scale(1.2) rotate(0deg);
+   }
+}
+@media(max-width:767px){
+    .pptp-center {
+        width: auto;
+    }
+    h3.pptp-head {
+        line-height: 1;
+    }
+    .pptpsec {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}

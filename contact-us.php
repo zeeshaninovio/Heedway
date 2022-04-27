@@ -19,7 +19,7 @@
                     <video loop="true" autoplay="autoplay" muted="">
                         <source src="img/contact-us2.mp4" type="video/mp4">
                     </video>
-                    <div class="contact-us-overlay1"></div>
+                    <!-- <div class="contact-us-overlay1"></div> -->
                     <div class="contact-info-sec">
                         <h3>Contact Info</h3>
                         <p>

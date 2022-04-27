@@ -8,7 +8,9 @@
 
 <!-- body content start here -->
 <section class="faq-page">
-    <section class="section-head">
+    <section class="faq-sec-head">
+        <section class="section-head">
+        </section>
         <div class="head">
             <h1>FAQ'S</h1>
             <p class="benefit1">Home | Faq's</p>

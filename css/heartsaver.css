@@ -4,3 +4,20 @@ section.yhr-section {
 section.letfyp-section {
     padding: 1rem 0;
 }
+.heartsaveimg {
+    animation: zoominoutsinglefeatured 10s infinite;
+        animation-name: mymove1;
+/* transform: scale(1.0); */
+}
+@keyframes mymove1{
+    0% {
+ transform: scale(1) rotate(0deg);
+}
+    
+100% {
+    transform: scale(1.2) rotate(0deg);
+   }
+}
+.letfyp-section .letfyp-img {
+    overflow: hidden;
+}

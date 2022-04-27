@@ -67,3 +67,16 @@ button.accordion-button.collapsed {
 section.frequently-ask-section img {
     height: 500px;
 }
+section.faq-page section.faq-sec-head {
+    position: relative;
+}
+section.faq-page .head {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+}
+@media(max-width:767px){
+    section.faq-page .head {
+        left: 29%;
+    }
+}

@@ -27,8 +27,8 @@
     <section class="letfyp-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <img class="img-fluid" src="img/heartsaver.jpg" alt="">
+                <div class="col-md-6 letfyp-img">
+                    <img class="img-fluid heartsaveimg" src="img/heartsaver.jpg" alt="">
                 </div>
                 <div class="col-md-6">
                     <h4>Lets Find Your Problem</h4>

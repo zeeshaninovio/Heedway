@@ -13,7 +13,7 @@
                 </video>
                 <div class="btnonslider">
                     <p class="text1">Giving our best for your success​</p>
-                    <a href="FAQ.php" class="btn">Contact Us</a>
+                    <a href="contact-us.php" class="btn">Contact Us</a>
                 </div>
                 <!-- <figure><img class="img-fluid" src="img/banner.png" alt=""></figure> -->
             </div>

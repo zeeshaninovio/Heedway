@@ -27,30 +27,73 @@
             <div class="lfindsyp-section">
                 <div class="row">
                     <div class="col-md-6">
-                        <p class="benefit1">Our Therapy Program</p>
-                        <h4>Lets Find Your Problem</h4>
+                        <p class="benefit1">Find Solution</p>
+                        <h3>Lets Find Your Problem</h3>
                         <p class="benefit3">Aliquam hymenaeos fusce urna massa nec quis, ut, imperdiet convallis sapien
                             lacinia aptent justo accumsan. Amet ut curae Maecenas. Nec varius pharetra auctor vel sed
                             velit magna nascetur sed.</p>
-                        <ul>
-                            <i aria-hidden="true" class="fas fa-dot-circle"></i>
-                            <li>
-                                Morbi faucibus iaculis faucibus mollis lacus platea velit</li>
-                            <i aria-hidden="true" class="fas fa-dot-circle"></i>
-                            <li>
-                                Nullam nostra dis nibh ut sollicitudin vel at eros Erat in ornare risus adipiscing eget
-                                suscipit
-                            </li>
-                            <i aria-hidden="true" class="fas fa-dot-circle"></i>
-                            <li>
-                                Eu mollis dictum metus nisl diam purus ante nam natoque risus
-                            </li>
-                        </ul>
+                        <div class="lfindsyp-content-sec">
+                            <div class="lfindsyp-content">
+                                <i aria-hidden="true" class="fas fa-dot-circle"></i>
+                                <li>Morbi faucibus iaculis faucibus mollis lacus platea velit</li>
+                            </div>
+                            <div class="lfindsyp-content">
+                                <i aria-hidden="true" class="fas fa-dot-circle"></i>
+                                <li>
+                                    Nullam nostra dis nibh ut sollicitudin vel at eros Erat in ornare risus adipiscing
+                                    eget
+                                    suscipit
+                                </li>
+                            </div>
+                            <div class="lfindsyp-content">
+                                <i aria-hidden="true" class="fas fa-dot-circle"></i>
+                                <li>
+                                    Eu mollis dictum metus nisl diam purus ante nam natoque risus
+                                </li>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-md-6">
                         <div>
                             <img class="img-fluid" src="img/firstaid1.jpg" alt="">
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="wtsaus-section">
+        <div class="wtsaus-heading">
+            <h3>Our Testimonial</h3>
+            <p class="benefit1">What They Say About Us ?</p>
+        </div>
+        <div class="wtsaus-sec">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>
+                            " Phasellus efficitur rhoncus mi, at rhoncus libero gravida interdum. Quisque rhoncus lorem
+                            risus, ornare feugiat felis rutrum ac. Vestibulum sem dolor, pulvinar nec efficitur a "
+                        </p>
+                        <p class="benefit1 nam">
+                            Dyas Kardinal
+                        </p>
+                        <p>
+                            Designer
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <p>
+                            " Aliquam lectus odio, semper vel pulvinar pretium, ultricies et nisl. Aenean commodo sem
+                            non lorem sagittis, at varius felis ullamcorper. Etiam ullamcorper nibh laoreet varius
+                            ornare "
+                        </p>
+                        <p class="benefit1 nam">
+                            Payad Samsi
+                        </p>
+                        <p>
+                            Designer
+                        </p>
                     </div>
                 </div>
             </div>

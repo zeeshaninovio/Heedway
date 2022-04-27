@@ -129,3 +129,11 @@ h4.submitd {
 .section-form-submit form {
     padding: 2rem;
 }
+@media(max-width:767px){
+    section.proven-section p.samproven {
+        width: auto;
+    }
+    .submitdetail-content p {
+        width: auto;
+    }
+}

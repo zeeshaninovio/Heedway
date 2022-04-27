@@ -24,8 +24,9 @@ section.about-us-page .head {
 } */
 .back-video video {
     max-width: 100%;
+    filter: opacity(0.5);
 }
-.contact-us-overlay1 {
+/* .contact-us-overlay1 {
     background-color: #FFFFFF;
     opacity: 0.7;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
@@ -34,7 +35,7 @@ section.about-us-page .head {
     top: 0;
     left: 0;
     position: absolute;
-}
+} */
 .back-video{
     position: relative;
 }
@@ -59,10 +60,16 @@ section.about-us-page .head {
     display: inline-block;
     font-size: 20px;
 }
-.contactus-content:hover{
+/* .contactus-content:hover{
+    color: #f39506;
+} */
+/* .contactus-content a:hover{
+    color: #f39506;
+} */
+.contactus-content:hover h6{
     color: #f39506;
 }
-.contactus-content a:hover{
+.contactus-content:hover i{
     color: #f39506;
 }
 section.about-us-page label {
@@ -77,4 +84,19 @@ input.contact-submit {
 }
 .about-us-section {
     padding: 3rem 0;
+}
+@media(max-width:767px){
+    .contactus-content h6 {
+        font-size: 13px;
+    }
+    .contact-info-sec {
+        position: unset;
+        transform: translate(10px, -14rem);
+    }
+    .contactus-content {
+        font-size: 13px;
+    }
+    .contact-info-sec p {
+        font-size: 13px;
+    }
 }

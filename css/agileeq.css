@@ -36,3 +36,9 @@ img.img-fluid.agile-img-pta {
 section.agile-progcom{
     padding: 1rem 0;
 }
+@media(max-width:767px){
+    section.ptake-away-sec img {
+        width: 100%;
+        margin-left: 0px !important ;
+    }
+}

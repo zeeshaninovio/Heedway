@@ -2,14 +2,14 @@
 <header id="header-top">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-2 col-4">
+            <div class="col-lg-3 col-4">
                 <div class="logoDv">
                     <a href="index.php">
                         <figure><img src="img/heedway-logo.png" class="img-fluid"></figure>
                     </a>
                 </div>
             </div>
-            <div class="col-lg-8 col-1">
+            <div class="col-lg-7 col-1">
                 <div class="navbar_menus">
                     <ul class="menus">
                         <li class="menu-items"><a href="index.php">Home</a></li>
@@ -17,8 +17,18 @@
                         <li class="menu-items dropdown">
                             <a class="dropdown-toggle" href="program.php" data-bs-toggle="dropdown">Programs</a>
                             <ul class="dropdown-menu">
-                                <li> <a class="dropdown-item" href="roofing-service.php ">Everything DiSC</a></li>
-                                <li> <a class="dropdown-item" href="heartsaver.php">AHA Heartsaver</a>
+                                <li class="every"> <a class="dropdown-item" href="#">Everything DiSC</a>
+                                    <ul class="inner-dropdown" id="frst-drop">
+                                        <li><a href="workplace.php">Workplace</a></li>
+                                        <li><a href="management.php">Management</a></li>
+                                        <li><a href="agileeq.php">Agile EQ</a></li>
+                                    </ul>
+                                </li>
+                                <li class="heart_saver"> <a class="dropdown-item" href="heartsaver.php">AHA Heartsaver</a>
+                                    <ul class="inner-dropdown" id="scnd-drop">
+                                        <li><a href="firstaid.php">First Aid/CPR Combo</a></li>
+                                        <li><a href="pfirstaid.php">Pediatric First Aid/CPR Combo</a></li>
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
@@ -59,13 +69,8 @@
     </div>
     <ul class="mobile_menus">
         <li class="menu_items"><a class="menu_links active_menu" href="index.php">Home</a></li>
-        <li class="menu_items"><a class="menu_links" href="about.php">About</a></li>
-        <li class="menu_items"><a class="menu_links" href="products.php">Shop</a></li>
-        <li class="menu_items"><a class="menu_links" href="products.php">Products</a></li>
-        <li class="menu_items"><a class="menu_links" href="contact.php">Contact</a></li>
-        <li class="menu_items"><a class="menu_links" href="product-cart.php">Cart</a></li>
-        <li class="menu_items"><a class="menu_links" href="signin.php">Login</a></li>
-        <li class="menu_items"><a class="menu_links" href="signup.php">Signup</a></li>
+        <li class="menu_items"><a class="menu_links" href="about-us.php">About</a></li>
+        <li class="menu_items"><a class="menu_links" href="contact-us.php">Contact</a></li>
     </ul>
 </div>
 <!-- Mobile Header End Here -->
