@@ -33,6 +33,7 @@
                             </ul>
                         </li>
                         <li class="menu-items"><a href="contact-us.php">Contact Us</a></li>
+                        <li class="menu-items"><a href="first-aid.php">HAD</a></li>
                     </ul>
                 </div>
             </div>
